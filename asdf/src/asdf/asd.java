@@ -2,9 +2,7 @@ package asdf;
 
 public class asd {
 
-	void m1() {
-		int i = 9;
-		
-		char ch;
+public static	void main(String args[]) {
+		System.out.println("from asd class");
 	}
 }
